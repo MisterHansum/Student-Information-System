@@ -1,3 +1,3 @@
 # Student-Information-System
 
-# My first Laravel project.
+My first Laravel project.
